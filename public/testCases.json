@@ -1,0 +1,17 @@
+{
+    "test_cases": [
+      {
+        "query": "How do I register for a course?",
+        "expected_response": "To register for a course, log in to your student portal and select your courses."
+      },
+      {
+        "query": "What is the deadline for course registration?",
+        "expected_response": "The deadline for course registration is September 30."
+      },
+      {
+        "query": "I forgot my password. What should I do?",
+        "expected_response": "You can reset your password by clicking on 'Forgot Password' on the login page."
+      }
+    ]
+  }
+  
