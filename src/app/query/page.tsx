@@ -48,7 +48,7 @@ export default function Home() {
                 <div className="break-words">{message.content}</div>
                                   {/* Display timestamp for each message */}
                 <div className="text-xs text-gray-500 mt-1">
-                  {formatTimestamp(new Date(message.createdAt))}
+                  {message.createdAt ? formatTimestamp(new Date(message.createdAt)) : 'No date available'}
                                 </div>
                             </div>
                         </div>
