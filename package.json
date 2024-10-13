@@ -17,7 +17,7 @@
     "lucide-react": "^0.356.0",
     "md5": "^2.3.0",
     "next": "^14.2.15",
-    "openai": "^4.28.4",
+    "openai": "^4.67.3",
     "openai-edge": "^1.2.2",
     "react": "^18",
     "react-dom": "^18",
